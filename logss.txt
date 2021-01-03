@@ -1,0 +1,16 @@
+
+2021-01-03 10:08:59,213 - DEBUG - This is a log message
+2021-01-03 10:09:33,887 - DEBUG - This is a log message
+2021-01-03 10:10:25,948 - DEBUG - This is a log message
+2021-01-03 10:10:25,948 - DEBUG - None
+2021-01-03 10:11:25,861 - DEBUG - This is a log message
+2021-01-03 10:11:25,861 - DEBUG - None
+2021-01-03 10:11:49,425 - DEBUG - This is a log message
+2021-01-03 10:11:49,425 - DEBUG - DoDONEne
+2021-01-03 10:12:02,077 - DEBUG - This is a log message
+2021-01-03 10:12:02,077 - DEBUG - DoDONEne
+2021-01-03 10:12:02,077 - DEBUG - 101
+2021-01-03 10:37:53,065 - DEBUG - This is a log message
+2021-01-03 10:37:53,065 - DEBUG - fe
+2021-01-03 10:37:53,065 - DEBUG - 101
+2021-01-03 10:37:53,065 - DEBUG - fe
